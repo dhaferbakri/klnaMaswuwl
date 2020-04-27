@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'tasrih') }}</title>
+    <title>{{ config('app.name', 'klnaMaswuwl - كلنا مسؤول') }}</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -22,8 +22,7 @@
 <body class="text-center">
     <div class="container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="masthead mb-auto">
-            <div class="inner">
-            <h3 class="masthead-brand"><a href="/">klnaMaswuwl - كلنا مسؤول</a></h3>
+
 
     <div id="app">
 
