@@ -1,2 +1,1 @@
-web: vendor/bin/heroku-php-apach2 public/
-
+web: vendor/bin/heroku-php-nginx public/
